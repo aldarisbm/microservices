@@ -1,3 +1,6 @@
 .DS_Store
 db-data/
 
+frontApp
+brokerApp
+authApp
